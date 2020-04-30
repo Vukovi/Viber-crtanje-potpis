@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MiniPaint</string>
+    <string name="canvasContentDescription">Mini Paint je jednostavna aplikacija za crtanje linije. Rotirati telefon da bi se obrisalo nacrtano.</string>
+</resources>
